@@ -18,7 +18,7 @@
     }
   },
   "require": {
-    "nixuehan/alita": "^0.1.2"
+    "nixuehan/alita": "^0.2.1"
   },
   "prefer-stable": true
 }
