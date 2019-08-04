@@ -3,8 +3,7 @@
   "type": "library",
   "description": "Initialization project based on Alita",
   "keywords": [
-    "swoole",
-    "nixuehan/alita"
+    "swoole"
   ],
   "authors": [
     {
