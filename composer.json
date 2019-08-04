@@ -19,5 +19,6 @@
   },
   "require": {
     "nixuehan/alita": "^0.1.2"
-  }
+  },
+  "prefer-stable": true
 }
