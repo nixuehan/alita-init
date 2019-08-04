@@ -1,0 +1,24 @@
+{
+  "name": "nixuehan/alita-init",
+  "type": "library",
+  "description": "Initialization project based on Alita",
+  "keywords": [
+    "swoole"
+  ],
+  "authors": [
+    {
+      "name": "妖",
+      "email": "237852571@qq.com"
+    }
+  ],
+  "license": "Apache-2.0",
+  "autoload": {
+    "psr-4": {
+      "Application\\": "Application"
+    }
+  },
+  "require": {
+    "nixuehan/alita": "^0.1.2"
+  },
+  "prefer-stable": true
+}
